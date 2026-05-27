@@ -1,0 +1,15 @@
+{
+  "mae": 4.612,
+  "rmse": 7.651,
+  "mape": 50.21,
+  "coverage_80pct": 0.8271428571428572,
+  "n_items": 50,
+  "n_train_rows": 92850,
+  "n_test_rows": 1400,
+  "test_start": "2016-03-28",
+  "quantiles": [
+    0.1,
+    0.5,
+    0.9
+  ]
+}
